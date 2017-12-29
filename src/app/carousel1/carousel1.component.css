@@ -3,14 +3,22 @@
     margin: 5em auto;
     padding: 0;
     background:#fff;
+    position: fixed;
+    top: 20px;
+
 }
 
 .items {
-    max-width:300px;
+    max-width:1800px;
     height:300px;
     background:#ECECEC;
 }
 
 #left, #right {
-    margin: 30px;
+    margin: 0px;
+}
+
+.slides-wrapper {
+    background-color:  gray;
+    width: auto;
 }
