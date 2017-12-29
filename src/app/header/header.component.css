@@ -1,0 +1,10 @@
+.container-fluid {
+  background-color:   #D7CCC8;
+  height: 100px;
+}
+
+.logo {
+
+    position: fixed;
+    top: 0;
+}
