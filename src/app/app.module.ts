@@ -9,6 +9,7 @@ import { FooterComponent } from './footer/footer.component';
  import { Carousel1Component } from './carousel1/carousel1.component';
 import { Carousel2Component } from './carousel2/carousel2.component';
 import { Carousel3Component } from './carousel3/carousel3.component';
+import { ShoppingcartComponent } from './shoppingcart/shoppingcart.component';
 
 
 
@@ -19,7 +20,8 @@ import { Carousel3Component } from './carousel3/carousel3.component';
     FooterComponent,
     Carousel1Component,
     Carousel2Component,
-    Carousel3Component
+    Carousel3Component,
+    ShoppingcartComponent
   ],
   imports: [
     BrowserModule,
