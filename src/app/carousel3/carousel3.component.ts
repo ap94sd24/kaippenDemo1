@@ -9,12 +9,12 @@ export class Carousel3Component implements OnInit {
  items: Array<any> = []
   constructor() {
     this.items = [
-      {name: 'assets/images/banner1.jpg'},
-      {name: 'assets/images/banner2.jpg'},
-      {name: 'assets/images/banner1.jpg'},
-      {name: 'assets/images/banner2.jpg'},
-      {name: 'assets/images/banner1.jpg'},
-      {name: 'assets/images/banner2.jpg'}
+      {name: 'assets/images/p5.jpg'},
+      {name: 'assets/images/p6.jpg'},
+      {name: 'assets/images/p5.jpg'},
+      {name: 'assets/images/p6.jpg'},
+      {name: 'assets/images/p5.jpg'},
+      {name: 'assets/images/p6.jpg'}
     ]
  }
 
